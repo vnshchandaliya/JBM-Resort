@@ -36,7 +36,7 @@ export default function ReelSection() {
               />
             </div>
 
-            {/* Optional subtle overlay hover */}
+           
             <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition duration-500"></div>
           </div>
         ))}
